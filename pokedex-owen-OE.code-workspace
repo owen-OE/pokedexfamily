@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/Indie_Flower"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pokedex-owen-OE"
+	}
+}
